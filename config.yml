@@ -1,0 +1,4 @@
+#允许在线小号数量,设0为不允许开小号
+AlternateLimit: 1
+#踢出服务器的理由
+KickReason: "我爱你"
